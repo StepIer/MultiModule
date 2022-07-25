@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MultiModul"
 include(":app")
+include(":example-library")
